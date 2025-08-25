@@ -14,7 +14,7 @@ This project provides an end-to-end solution for cleaning financial data, genera
 
 ## 📂 Project Structure
 
-.
+
 ├── FS-data-80475.csv           
  Raw input data file
  
@@ -97,6 +97,7 @@ Scenario Planner: Use the sidebar controls under "Scenario Planning" to select a
 
 
 KPI Deep Dive: In the sidebar, select any KPI from the dropdown menu to view its detailed historical vs. forecast performance chart and a bar chart of its 3-month forecast.
+
 
 
 
