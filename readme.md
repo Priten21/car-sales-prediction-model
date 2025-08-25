@@ -16,15 +16,14 @@ This project provides an end-to-end solution for cleaning financial data, genera
 
 .
 ├── FS-data-80475.csv           
-# Raw input data file
+ Raw input data file
 ├── sales-prediction.ipynb      
-# Jupyter Notebook for data processing, EDA, and model training
+#Jupyter Notebook for data processing, EDA, and model training
 ├── dashboard.py               
-# The Streamlit dashboard application script
+ The Streamlit dashboard application script
 ├── requirements.txt             
-# Python dependencies for the project
+Python dependencies for the project
 └── README.md                
-# This file
 
 
 After running the pipeline, the following files will be generated:
@@ -93,3 +92,4 @@ Scenario Planner: Use the sidebar controls under "Scenario Planning" to select a
 
 
 KPI Deep Dive: In the sidebar, select any KPI from the dropdown menu to view its detailed historical vs. forecast performance chart and a bar chart of its 3-month forecast.
+
