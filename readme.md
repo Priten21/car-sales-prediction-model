@@ -27,6 +27,7 @@ This project provides an end-to-end solution for cleaning financial data, genera
 ├── requirements.txt      
 
 Python dependencies for the project
+
 └── README.md                
 
 
@@ -96,5 +97,6 @@ Scenario Planner: Use the sidebar controls under "Scenario Planning" to select a
 
 
 KPI Deep Dive: In the sidebar, select any KPI from the dropdown menu to view its detailed historical vs. forecast performance chart and a bar chart of its 3-month forecast.
+
 
 
