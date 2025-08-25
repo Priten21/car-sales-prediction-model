@@ -1,4 +1,3 @@
-Markdown
 
 # Automotive Sales & Financial Forecasting Dashboard 🚗
 
@@ -16,11 +15,16 @@ This project provides an end-to-end solution for cleaning financial data, genera
 ## 📂 Project Structure
 
 .
-├── FS-data-80475.csv             # Raw input data file
-├── sales-prediction.ipynb        # Jupyter Notebook for data processing, EDA, and model training
-├── dashboard.py                  # The Streamlit dashboard application script
-├── requirements.txt              # Python dependencies for the project
-└── README.md                     # This file
+├── FS-data-80475.csv           
+# Raw input data file
+├── sales-prediction.ipynb      
+# Jupyter Notebook for data processing, EDA, and model training
+├── dashboard.py               
+# The Streamlit dashboard application script
+├── requirements.txt             
+# Python dependencies for the project
+└── README.md                
+# This file
 
 
 After running the pipeline, the following files will be generated:
@@ -86,5 +90,6 @@ Your web browser should automatically open to the dashboard's local URL (usually
 Key Financial Forecast: The top section provides a quick glance at the predicted values for the next three months for primary KPIs like Gross Profit and Sales.
 
 Scenario Planner: Use the sidebar controls under "Scenario Planning" to select a Driver KPI and an Impacted KPI. Adjust the slider to see how a change in the driver's forecast could potentially affect the other KPI.
+
 
 KPI Deep Dive: In the sidebar, select any KPI from the dropdown menu to view its detailed historical vs. forecast performance chart and a bar chart of its 3-month forecast.
